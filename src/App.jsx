@@ -1,7 +1,7 @@
 import './App.css'
 import Sidebar from './components/Sidebar.jsx'
 import Feed from './components/Feed.jsx'
-import Navbar from './components/navbar.jsx'
+import Navbar from './components/Navbar.jsx'
 import Rightbar from './components/Rightbar.jsx'
 import { Stack,Box, createTheme } from '@mui/material'
 import Add from './components/Add'
